@@ -29,5 +29,7 @@ class Birds {
 }
 
 public class Solutions {
-
+	public static void mian(String arg[]) {
+		
+	}
 }
